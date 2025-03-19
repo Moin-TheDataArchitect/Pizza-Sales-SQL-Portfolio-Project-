@@ -17,12 +17,17 @@ Key Results:
 Techniques Utilized:
 
 ●Subqueries and Common Table Expressions (CTEs)
+
 ●Database creation and table imports
+
 ●Joins for comprehensive data analysis
+
 ●Analytical and window functions for advanced metrics
 
 🍕 Key Learnings:
+
 ●Developed a deeper understanding of SQL and data manipulation techniques.
+
 ●Gained hands-on experience with data analysis in a real-world context.
 
 Enhanced skills in creating effective visualizations to communicate data insights.
